@@ -19,8 +19,7 @@ Welcome message should be as given in the Details section.
 Use of functional component.
 
 
-#Output
-
+- Output
 ![Passing the Props](https://user-images.githubusercontent.com/75841470/213477597-e54cf33e-9060-4a51-97a1-d9b72c457fb3.gif)
 
 
